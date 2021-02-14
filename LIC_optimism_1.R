@@ -36,7 +36,7 @@ load("DF.opt.1.Rdata")
 
 ### Load functions - save this ### 
 # DF.opt.1.Rdata should be in the same folder as the code  
-source("LIC_optimism_functions.R")
+source("LiC_optimism_functions.R")
 
 ###
 
