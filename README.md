@@ -16,4 +16,4 @@ This repository contains:
 - A file with supplementary functions ("LIC_optimism_functions.R").
 - A folder containing the LiC online survey application ("LiC_app"). 
 
-The data used in this analysis ("DF.opt.1.RData") can be found here: 
+The data used in this analysis ("DF.opt.1.RData") can be found here: https://figshare.com/s/194ce2d05694bc3ec83d (doi: 10.6084/m9.figshare.14016086). 
